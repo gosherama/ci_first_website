@@ -1,9 +1,10 @@
 # My first webpage with Code Institute
 
-Welcome!
+Essential to Document: 
+> Link to live deployed project
+> Project scope & vision
+> Technologies used
+> Features
+> Credits - Third party libraries, StackOverflow
 
-## This is a h2
 
-### This is a h3
-
-#### This is a h4
