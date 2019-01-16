@@ -13,10 +13,13 @@ nav ul {
 }
 nav li {
     font-size: 1.2em;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 40px;
     display: inline-block;
     margin-left:2.5%;
+    text-transform: uppercase;
+    padding: 10px 0;
+    font-weight: bold;
 }
 nav a {
     text-decoration: none;
@@ -26,6 +29,8 @@ nav a {
 nav a:hover {
     background: #fff;
     color: #4a4a4f;
+    border-radius: 5px;
+    padding:2px;
 }
 .card {
     float:left;
